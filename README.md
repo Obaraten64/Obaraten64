@@ -9,7 +9,7 @@
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/obaraten64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/obaraten64" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vadimliakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/obaraten64" height="30" width="40" /></a>
 <a href="mailto:obaraten64@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="obaraten64@gmail.com" height="30" width="40" /></a>
 <a href="https://discord.com/users/obaraten64" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/Wvjx6rVlC1rGWKkln3r-23ICKV--sxEEUuq7jd15BeJan8v-wS7TGwm0NHXqqon18w=w240-h480-rw" alt="discord/obaraten64" height="30" width="40" /></a>
 <a href="https://t.me/obaraten64" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegram/obaraten64" height="30" width="40" /></a>
